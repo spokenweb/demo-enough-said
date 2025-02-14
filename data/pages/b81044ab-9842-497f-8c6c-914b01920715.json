@@ -1,0 +1,56 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Both Lee Gotham and Anne Diamond had long features at the December 19, 1994 edition of Enough Said. How were these fuller sets received by the participants in the watch party?"
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "cbf51472-73d7-488d-9d87-6d3d434b13cf",
+        "start": 1524,
+        "end": 3816,
+        "file": "57b89398-7876-4788-b1fe-df7fcf7697dd"
+      },
+      "event2": {
+        "uuid": "cbf51472-73d7-488d-9d87-6d3d434b13cf",
+        "start": 3827,
+        "end": 5450,
+        "file": "57b89398-7876-4788-b1fe-df7fcf7697dd"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While everyone was talking about Lee's hat, Anne's bold attitude was the focus of her discussion. "
+        }
+      ]
+    }
+  ],
+  "title": "Gotham, Diamond, and the Long Form Feature ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "gotham-diamond-and-the-long-form-feature",
+  "created_at": "2025-02-14T04:25:09.345Z",
+  "created_by": "spokenweb",
+  "updated_at": "2025-02-14T04:25:09.345Z",
+  "updated_by": "spokenweb"
+}
