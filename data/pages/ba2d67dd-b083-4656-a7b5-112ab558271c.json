@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-02-13T17:33:31.574Z",
-  "created_by": "spokenweb",
-  "title": "Performance Poetry Party",
-  "slug": "performance-poetry-party",
-  "updated_at": "2025-02-13T17:33:31.574Z",
-  "updated_by": "spokenweb",
-  "parent": "6eb38730-bfb7-45c8-bab9-6afc4e98b00e",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "719c5518-22c1-4600-bdf7-ddf81bf3d123"
-  }
-}
+{"content":[],"created_at":"2025-02-13T17:33:31.574Z","created_by":"spokenweb","title":"Performance Poetry Party","slug":"performance-poetry-party","updated_at":"2025-02-13T17:33:31.574Z","updated_by":"spokenweb","parent":"6eb38730-bfb7-45c8-bab9-6afc4e98b00e","autogenerate":{"enabled":true,"type":"event","type_id":"719c5518-22c1-4600-bdf7-ddf81bf3d123"}}
