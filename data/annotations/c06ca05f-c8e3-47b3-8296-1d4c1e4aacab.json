@@ -1,1 +1,2065 @@
-{"annotations":[],"set":"Default","event_id":"cbf51472-73d7-488d-9d87-6d3d434b13cf","source_id":"57b89398-7876-4788-b1fe-df7fcf7697dd"}
+{
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Color video of the stage with mic stand at Bistro 4 (Quatre) (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada). The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. trafficâwith both pedestrians and vehicles often passing by. The windows from across the street are sometimes visible, including an outdoor sign with the word \"JETHRO.\"  On the windows of Bistro 4, the word \"said\" (from \"Enough Said\") becomes visible when the camera zooms out, as well as decals with words from the menu, such as \"DEJEUNER,\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[Bistro 4]"
+        }
+      ],
+      "uuid": "c8039ef3-dafa-4679-a53c-fe535e538e0b"
+    },
+    {
+      "start_time": 16,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham welcoming everyone to the event and announcing that the season will resume on January 9th, 1995. Invites Brian to the stage. Applause. Mentions that Ann Diamond and himself are the featured performers.] | Video Description: Grey collared shirt with sleeves rolled to elbows atop a white collared shirt, black taqiyah-style hat with a small folded visor, and shoulder length brown hair. Closeup zooms out to long shot as Gotham speaks into the mic, then zooms into medium shot as Gotham adjusts stage equipment for Brian and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "449d3947-f4a1-4a57-94fa-12f2222a685a"
+    },
+    {
+      "start_time": 116,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks audience if they can hear him. Says he will read \"quiet poems\" tonight. Introduces and performs piece titled \"Andrea's Christmas\" by Toronto author Henry [Nimuth?]. Applause.] | Video Description: Light blue sweater atop a medium blue collared shirt, dark hair, dark inch-long beard, and wire-rimmed glasses. Medium long shot as Brian bends down to pick up large black folder. Zooms into medium closeup as Brian speaks into the mic, and zooms out to medium shot as Brian performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Brian"
+        }
+      ],
+      "uuid": "32363f26-2c4f-4f9f-9f70-beffe2c6ee95"
+    },
+    {
+      "start_time": 287,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"For E. P.\", written for Ezra Pound. Explains Pound's \"ABCs of Poetry\" (note: Brian misspoke, and book's name is \"ABCs of Reading\"). Applause. Says something indiscernible into the mic.] | Video Description: Medium shot as Brian picks up red folder from floor, speaks into the mic, performs a piece, and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Brian"
+        }
+      ],
+      "uuid": "0622a16a-a0a3-4cd4-afda-9e14d6bddd2e"
+    },
+    {
+      "start_time": 499,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Brian. Invites Beau Williamson to the stage.] | Video Description: Medium shot zooms into medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4d58b39c-dd9e-4e8c-bf2d-ad61a8ed9ecb"
+    },
+    {
+      "start_time": 514,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces the piece, though indiscernible due to low speaking level and high background noise in the audience and on the tape. Performs piece beginning with the line \"I had a beautiful hour of naked day that I wish to describe.\"] | Video Description: White \"Rocky Horror Picture Show\" graphic t-shirt with red lettering and black trim, long light brown hair, and large glasses. Medium closeup as Williamson speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "5a972f54-0167-4990-bd2a-3739ae6e0ac7"
+    },
+    {
+      "start_time": 565,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece titled \"Pictures of the Same Person.\"] | Video Description: Medium closeup zooms into medium closeup and zooms out again as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "477a8cf3-64d2-4ad9-9ced-06bd230beb14"
+    },
+    {
+      "start_time": 592,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs piece beginning with the line \"Tired hands greet the limp phallus of joy.\"] | Video Description: Medium closeup as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "78b95937-2d3f-4135-9057-ff958eca73b0"
+    },
+    {
+      "start_time": 603,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that Yule is coming and decided to write and perform a poem about the month of May anyways. Introduces and performs poem titled \"May.\" Applause.] | Video Description: Medium shot as Williamson performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Beau Williamson"
+        }
+      ],
+      "uuid": "d05d3cc3-9743-44df-86d8-054bc34ae173"
+    },
+    {
+      "start_time": 737,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that there will be one more open mic performer before the first feature. Invites Jen Frankel to the stage. Applause.] | Video Description: Medium closeup as Gotham speaks into the mic and lowers it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "757cebf8-15c7-425e-b38a-3c5edf04b004"
+    },
+    {
+      "start_time": 761,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says they have no sense of time and brought a clock. Seems to discuss with Gotham (off-screen) how long they can perform. Introduces and performs a piece titled \"Ode to Beauty.\" Applause.] | Video Description: Loose black button-down shirt and short medium brown hair pulled back with a thick black bandana. Tilts down to a medium shot as Frankel speaks into the mic. Loose closeup as Frankel seems to talk to Gotham off-screen. Camera angles alternate between medium shots and medium closeups as Frankel speaks into the mic again and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jen Frankel"
+        }
+      ],
+      "uuid": "993269bc-b23c-49a1-a632-12ce2a6f62e6"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs two chapters titled \"A Clockwork Cat\" and \"Cathedrals and Crashing in Seas Without Shores\" from a longer prose piece titled \"Susan by Greyhound.\"] | Video Description: Medium closeup as Frankel speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Jen Frankel"
+        }
+      ],
+      "uuid": "13cd6930-7134-4e52-be73-1afa1350e51c"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Announces that the 1995 season will be more structured with time limits for open mic performers. Announces a break.] | Video Description: Medium closeup zooms out to medium shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ad2c25f3-bdc5-4731-9831-964ffc87060a"
+    },
+    {
+      "start_time": 1479,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Unknown_Musician1 quietly and sporadically playing snare drum and cymbal with brushes and Unknown_Musician2 fingerpicking jazz chords on guitar. Audience chatter in the background.] | Video Description Unknown_Musician1 wears a blue and white argyle sweater with sleeves rolled up to elbows, a silver watch, glasses, and short curly dark brown hair. Unknown_Musician2 wears a red button-down shirt with sleeves rolled up to elbows, large metal-rimmed glasses, and thinning dark brown hair. Long shot as Unknown_Musician1 plays small drum kit with brushes and Unknown_Musician2 finger picks an electric guitar. Zooms into extreme closeup of Unknown_Musician2 looking around, chewing gum, and talking to individuals off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "1673a9fa-f943-4f9f-ad54-204a6d4d29df"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Extreme closeup of mic with no one behind it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[camera]"
+        }
+      ],
+      "uuid": "0a797938-0222-4dd1-8ebe-6be3a89d231e"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Exclaims that the open mic sign-up board is full. Introduces himself as the first feature performer. Says Unknown_Musician1 and Unknown_Musician2 are performing with himself for the first time. Introduces a piece as definitely not poetry. Audience collectively exclaims \"aw.\"] | Video Description: Out-of-focus extreme closeup focuses and zooms out to closeup as Gotham speaks into the mic. Zooms out to long shot of Gotham speaking into mic, and Unknown_Musician1 and Unknown_Musician2 behind their instruments not playing. Zooms into closeup as Gotham speaks into the mic, turns towards 1 and 2 and says something inaudible, and continues speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a4ac75ce-10cd-4708-a0a2-007e317ae45e"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing a piece either titled or beginning with the line \"Attention project proposals, explorations grants competition, Canada Arts Council.\"] | Video Description: Closeup as Gotham begins performing a piece. Zooms into extreme closeup as Gotham says the line \"one idea is a death of experience.\" Looks over to Unknown_Musician1 and Unknown_Musician2."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f8659af3-1995-40b6-aa62-f5bb01d36c5f"
+    },
+    {
+      "start_time": 1661,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Strike a discordant cord.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "87b6dc19-dcf4-4539-9d0b-2d2a5368a82f"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece. Gotham pauses.] | Video Description: Extreme closeup zooms out to medium closeup as Gotham resumes performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f6b7ade4-a670-4ee3-bc4d-a27e8398ffa2"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"No, musicians should play as they see fit.\"] | Video Description: Medium closeup as Gotham resumes performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e3200f5f-d60b-48f6-9fce-25fd6d0c2b21"
+    },
+    {
+      "start_time": 1744,
+      "end_time": 1747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Quietly playing uncertain chords and sparse drumming as Gotham continues performing.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "6d479b3a-954d-48b4-bfe3-a32792fefbce"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"The performer picks up a hammer.\" Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham pauses.] | Video Description: Medium closeup zooms out to long shot as Gotham picks up hammer from off-screen. In between lines, dramatically hits a wooden block on stand to his right with hammer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7b3aea8b-a76c-4d07-a1ed-546c1764ed79"
+    },
+    {
+      "start_time": 1786,
+      "end_time": 1786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"There can be no pause for the cause.\" Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham pauses.] | Video Description: Camera angle alternates between closeups and medium shots of Gotham performing a piece and long shots of Gotham performing a piece, Unknown_Musician1 playing drums, and Unknown_Musician2 playing guitar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4cca945b-1f6c-4cdc-b6ff-4116f986c9c0"
+    },
+    {
+      "start_time": 1924,
+      "end_time": 2078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"The performer is blurting out opinions to strangers.\" Music by Unknown_Musician1 and Unknown_Musician2 begins quietly but becomes more prominent in background. Gotham pauses.] | Video Description: Camera alternates between medium closeups and extreme closeups of Gotham performing a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ce80efb9-bb61-40bb-bb40-e64257ec0d3b"
+    },
+    {
+      "start_time": 2078,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"Opinions again: that's what I call using your head.\" Music by Unknown_Musician1 and Unknown_Musician2 begins quietly but becomes more prominent in background. Gotham pauses.] | Video Description: Extreme closeup zooms out to medium closeup as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "04ef8e40-092e-4b53-9037-6b90920214d5"
+    },
+    {
+      "start_time": 2135,
+      "end_time": 2238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"It's a milk and honey mid-September, an [?] Indian coffee and cigarette summer\" Music by Unknown_Musician1 and Unknown_Musician2 becomes louder and more complex in background. Gotham pauses.] | Video Description: Long shot as Gotham performs a piece. Zooms into medium shot partway through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "64b4a932-3650-454b-8c8c-aac408ba0b7b"
+    },
+    {
+      "start_time": 2238,
+      "end_time": 2268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"I went to the doctor for the first time in twelve years.\" Music by Unknown_Musician1 and Unknown_Musician2 softens in background. Gotham pauses.] | Video Description: Medium shot as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "eecf3203-b72e-4c4b-bf6a-b80aee5178c3"
+    },
+    {
+      "start_time": 2268,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"Less about what you think, I still don't get it.\" Music by Unknown_Musician1 and Unknown_Musician2 becomes louder in background with staccato chords. Asks Unknown_Musician1 and Unknown_Musician2 to play more soothingly. Laughter. Says \"or ignore him.\"] | Video Description: Closeup as Gotham performs a piece. Looks over to Unknown_Musician1 and Unknown_Musician2, who are off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f825ab24-bd7f-4d0d-870f-9bbe1ecae55b"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown_Musician2 continues to play complex drum beat, Unknown_Musician1 softens chord attack but plays complex progression.] | Video Description: Off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "00b8fd1a-954d-4448-8041-76cfd49d0cff"
+    },
+    {
+      "start_time": 2309,
+      "end_time": 2311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Medium shot as Gotham sits down on something unseen and, holding the mic away from him, mouths something unseen to Unknown_Musician1 and Unknown_Musician2."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "825d3179-e44b-4a2d-8320-43d6f61566b1"
+    },
+    {
+      "start_time": 2311,
+      "end_time": 2316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Play calmer jazz music.] | Video Description: Camera pans to long shot of Unknown_Musician1 playing drums with brushes and Unknown_Musician2 playing guitar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "4a2e67aa-3978-48ba-9763-22c08e618c34"
+    },
+    {
+      "start_time": 2316,
+      "end_time": 2485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"We were still sitting there on the beach listening to the crazy old Indian.\" Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham and music by Unknown_Musician1 and Unknown_Musician2 pauses.] | Video Description: Camera pans to medium closeup as Gotham performs a piece sitting down. Camera alternates between closeups, medium shots and medium closeups as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0a66059e-99fd-4f5b-9b91-57ea9e47165f"
+    },
+    {
+      "start_time": 2485,
+      "end_time": 2678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"Well, there wasn't a lot of story to it.\" Music by Unknown_Musician1 and Unknown_Musician2 resumes in major key. Gotham pauses.] | Video Description: Closeup zooms out to medium closeup as Gotham performs a piece. Gotham stands up. Zooms out to longshot as Gotham picks up hammer on his left and pretends to hit himself on the head with it in between lines. Zooms into medium closeup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fd7ff8bd-a5c7-48b4-a830-93111d53c8c1"
+    },
+    {
+      "start_time": 2678,
+      "end_time": 2731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"That's good, that's just fine, now we'll just relax\" delivered in a deeper tone than previously. Music by Unknown_Musician1 and Unknown_Musician2 barely audible in background. Gotham pauses.] | Video Description: Medium closeup as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f2b9a54d-ff8c-4e35-8fe6-5bdb5f7b7cf2"
+    },
+    {
+      "start_time": 2731,
+      "end_time": 2957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"An escaped convict fell into a deep hole someone had dug beside the roadway.\" Music reminiscent of middle-Eastern music by Unknown_Musician1 and Unknown_Musician2 plays in background. Unknown_Musician2 stops playing guitar part way through. Gotham pauses.] | Video Description: Medium closeup as Gotham leans backwards on something unseen and performs a piece. Zooms into closeup part way through. Zooms out to medium shot as Gotham stands up and continues performing piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "34fe909b-187f-478d-807e-84cbe66b3db3"
+    },
+    {
+      "start_time": 2957,
+      "end_time": 2961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music by Unknown_Musician1 and Unknown_Musician2 continues in background.] | Video Description: Zooms out to show Unknown_Musician1 and Unknown_Musician2 playing their instruments beside Gotham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician1 and Unknown_Musician2"
+        }
+      ],
+      "uuid": "5582f958-3751-4df7-adfc-795dbf4d7295"
+    },
+    {
+      "start_time": 2961,
+      "end_time": 2978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes performing piece with the line \"The water's run out.\" Music by Unknown_Musician1 and Unknown_Musician2 becomes busier in the background.] Video Description: Long shot as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a559e8ab-d638-4617-b59f-04ff5e33d9a7"
+    },
+    {
+      "start_time": 2978,
+      "end_time": 2937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music by Unknown_Musician1 and Unknown_Musician2 and Gotham's performance continues in background.] Video Description: Zooms into medium shot of Unknown_Musician2 playing guitar and chewing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown_Musician2"
+        }
+      ],
+      "uuid": "7f352285-8fdc-49af-a683-10a16bf51255"
+    },
+    {
+      "start_time": 2937,
+      "end_time": 3005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music by Unknown_Musician1 and Unknown_Musician2 and Gotham's performance continues in background.] Video Description: Pans to medium shot of Unknown_Musician1 playing drums. Gotham is visible on the right side of screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown_Musician1",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b3dd01f8-587d-43cc-a858-eb1aa87d98c1"
+    },
+    {
+      "start_time": 3005,
+      "end_time": 3091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing piece. Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham pauses.] | Video Description: Medium shot zooms into medium closeup as Gotham continues performing a piece. Zooms out to medium shot part way through. Gotham expands arms like flying bird while performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9d6c9877-afa2-45b6-a035-66d580763495"
+    },
+    {
+      "start_time": 3091,
+      "end_time": 3310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing piece with the line \"Well now, where were we. You wanted to talk about sex today?\" Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham Gotham and music by Unknown_Musician1 and Unknown_Musician2 pause.] | Video Description: Medium closeup as Gotham performs piece. Camera alternates between medium closeups and medium shots throughout ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dc359d4e-372d-41da-8e07-e689e36ee4dc"
+    },
+    {
+      "start_time": 3310,
+      "end_time": 3449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing piece with the line \"I'd like to make it reasonably clear that I'm a frightened man.\" Sombre music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham pauses.] | Video Description: Medium shot as Gotham performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "54aa8bbe-b486-4b0c-85c5-f2ce977bfe80"
+    },
+    {
+      "start_time": 3449,
+      "end_time": 3704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing piece with the line \"The performer gradually regains his composure.\" Music by Unknown_Musician1 and Unknown_Musician2 continues in background. Gotham and music by Unknown_Musician1 and Unknown_Musician2 pause.] | Video Description: Medium closeup as Gotham sips water and performs a piece. Zooms into closeup part way through, then zooms out to medium shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "587c19be-1ee1-4378-ab71-b391f54f1b42"
+    },
+    {
+      "start_time": 3704,
+      "end_time": 3816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Continues performing piece with the line \"Failure to recognize boundaries between self and the world outside.\" Music by Unknown_Musician1 and Unknown_Musician2 ceases in the background. Thanks audience. Applause. Thanks audience and announces break before Ann Diamond's performance] | Video Description: Medium shot as Gotham performs a piece. Takes cigarette package out of pocket. Zooms out to long shot during applause. Zooms into medium shot when Gotham resumes speaking into mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0822004d-3310-4df4-9696-1808694a56d4"
+    },
+    {
+      "start_time": 3816,
+      "end_time": 3827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham inviting Ann Diamond to the stage. Applause.] | Video Description: Medium shot of Gotham speaking into the microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9bc05c46-70d1-4608-8d7b-f9ded77a35d9"
+    },
+    {
+      "start_time": 3827,
+      "end_time": 3827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says she planned to improvise but got nervous as she approached the venue. Introduces and reads from a pamphlet found outside the venue titled \"A Free Lecture on Past Life Regression, Reincarnation, and Karma.\"] | Video Description: Dark graphic t-shirt with the word \"MAUDITE\" and an orange devil printed on it atop a reddish-brown cowl neck sweater with sleeves rolled up to elbows, hanging earrings, and short medium brown hair. Medium shot zooms into medium closeup as Diamond speaks into the mic and reads from pink pamphlet. Puts down pamphlet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "617d192b-d80c-4d04-be47-56ee5784db9c"
+    },
+    {
+      "start_time": 3961,
+      "end_time": 4035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks audience \"do you believe that?\" Laughter. Introduces and asks the audience a series of true or false questions beginning with \"We are all survivors. True or false?\" Audience shouts out a mixture of \"true\" and \"false\" after each.] | Video Description: Closeup as Diamond sips beer. Closeup zooms out to medium closeup as Diamond reads from thick spiral notebook."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "081488aa-2d87-401a-890e-02b8b63c628c"
+    },
+    {
+      "start_time": 4035,
+      "end_time": 4150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells story about being kidnapped by the Rolling Stones and being taken to Ste-Anne-de-Bellevue. Invites Anna, who is in the audience, to ask question.] | Video Description: Medium closeup as Diamond tells a story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "201e98d8-03f8-4840-8896-c78313a6db2e"
+    },
+    {
+      "start_time": 4150,
+      "end_time": 4151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was this a dream?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "9c2d4daa-02c2-44f4-8b00-cfa0bcb20f8e"
+    },
+    {
+      "start_time": 4151,
+      "end_time": 4152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not gonna tell you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "129b6c42-fb09-48be-b080-13dc0688c478"
+    },
+    {
+      "start_time": 4152,
+      "end_time": 4160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0ec126f1-b91a-4541-ae00-0f25f42a0172"
+    },
+    {
+      "start_time": 4160,
+      "end_time": 4323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes telling story about being kidnapped by the Rolling Stones and being taken to Ste-Anne-de-Bellevue.] | Video Description: Medium closeup of Diamond telling story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "c86619b5-301d-4c6e-9d63-536030fdaeab"
+    },
+    {
+      "start_time": 4323,
+      "end_time": 5095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says it was a dream. Explains how under hypnosis people believe that dreams are real memories. Says she was on the national news with the next story that is not a memory or a dream. Tells a story about getting into a car accident during a hurricane on Poxy Island near Prince Edward Island with a short aside about Leonard Cohen. Audience laughter throughout.] | Camera angles vary between medium closeups and long shots as Diamond speaks into the mic and tells a story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "b510c652-fd8f-47f5-9255-640c10642399"
+    },
+    {
+      "start_time": 5095,
+      "end_time": 5262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks the audience a series of true or false questions about her trip to the Caribbean with Mick Jagger among other topics. Audience shouts out a mixture of \"true\" and \"false\" after each.] | Video Description: Extreme closeup zooms out to medium closeup as Diamond asks the audience questions and pauses as they respond."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "e0bcdd19-028c-489d-a4c4-2b5ecc33b4cf"
+    },
+    {
+      "start_time": 5262,
+      "end_time": 5450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions that she wants to launch a project titled \"Canada: The Untold Story\" about recovering memories.] | Video Description: Medium closeup zooms out to medium shot as Diamond speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "3c295d2a-9f7b-4424-be19-3e3b30622796"
+    },
+    {
+      "start_time": 5450,
+      "end_time": 5534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Ann Diamond. Announces Enough Said will return for a new season on January 9th, 1995 with performances by bill bisset and Sharon Nelson, as well as the second cassette launch of Wired on Words series on the 23rd. Announces the event is over. Thanks audience for attending and wishes everyone a Merry Christmas.] | Video Description: Long shot zooms into medium closeup as Lee Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e67abb2b-a694-462e-9965-79a914b7a414"
+    },
+    {
+      "start_time": 5534,
+      "end_time": 5551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Gotham inviting Vince Tinguely to the stage.] | Video Description: Long shot of Gotham speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "537076cf-f9cc-4714-9a2d-e300e29b53fc"
+    },
+    {
+      "start_time": 5551,
+      "end_time": 5650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece beginning with the line \"[At the height of the?] Cuban Missile Crisis and a bowl of clean water.\" Applause.] | Video Description: White t-shirt, large wire-rimmed glasses, and thin white hair. Medium closeup of Tinguely speaking into the mic zooms out to medium shot as Tinguely performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Vince Tinguely"
+        }
+      ],
+      "uuid": "a95412b3-d24e-42df-a2c8-04ab98187985"
+    },
+    {
+      "start_time": 5650,
+      "end_time": 5711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Vince. Invites Amanda Blush to the stage. After a few seconds of no one responding, invites [inaudible] to the stage. After a few seconds of no one responding, invites Graham Olds to the stage. Applause.] | Video Description: Medium closeup of Gotham speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "235c3801-4dac-44ad-a33b-75d123f5b69f"
+    },
+    {
+      "start_time": 5711,
+      "end_time": 5834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions he is from British Columbia which is very concerned with the environment. Introduces and performs a piece titled \"If Elvis Was an Environmentalist.\" Applause.] | Video Description: Red graphic t-shirt with black geometric designs and a face printed on the front, chin-length medium brown hair, and a thin moustache. Camera angles vary between medium closeups and medium shots as Olds speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Graham Olds"
+        }
+      ],
+      "uuid": "abcc6f70-b022-465d-8e11-7d0835066007"
+    },
+    {
+      "start_time": 5834,
+      "end_time": 5920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Talks about riding bike from Tofino to Port Alberni. Performs a piece beginning with the line \"When waves of adrenaline excrete from the renal cortex of your kidneys.\"] | Video Description: Medium closeup as Olds speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Graham Olds"
+        }
+      ],
+      "uuid": "26aa9d86-0c8a-4451-bab2-7b4e639fb1b4"
+    },
+    {
+      "start_time": 5920,
+      "end_time": 5994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs untitled piece beginning with the line \"I'm a cappuccino cowboy.\" Applause.] | Video Description: Medium shot as Olds speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Graham Olds"
+        }
+      ],
+      "uuid": "551698d3-351e-4a4b-b151-2040c4161ff4"
+    },
+    {
+      "start_time": 5994,
+      "end_time": 6075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Praises the Montreal metro system. Performs a piece beginning with the line \"Never been the biggest fan of riding the bus.\" Invites Julie Crysler to the stage.] | Video Description: Medium closeup zooms out to medium shot as Olds speaks into the mic, performs a piece, and speaks into the mic again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Graham Olds"
+        }
+      ],
+      "uuid": "3d179b90-cef2-4892-95fa-0ff067698bf1"
+    },
+    {
+      "start_time": 6075,
+      "end_time": 6169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Mentions she was inspired to read by one of Diamond's anecdotes. Introduces and performs piece titled \"Fucking Leonard Cohen.\" Applause.] | Video Description: Black-and-white plaid button-down vest atop a long-sleeve black shirt, dark-brown jaw-length hair parted in the middle. Long shot zooms into medium closeup zooms out to long shot as Crysler speaks into mic. Long shot zooms into medium closeup as Crysler performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Julie Crysler"
+        }
+      ],
+      "uuid": "dd7569bc-c40e-4827-b05f-2737d9bb2a88"
+    },
+    {
+      "start_time": 6169,
+      "end_time": 6176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Julie. Invites Ran Elfassy to the stage.] | Video Description: Long shot as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c45d1d0a-35b4-442a-bd0b-4fd7ea83d2b0"
+    },
+    {
+      "start_time": 6176,
+      "end_time": 6594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"hi\" to the audience. Says his poem is not about fucking Leonard Cohen. Performs a piece beginning with the line \"I was a lover last night, last night I was alone with a lover.\" Breaks midperformance to mention that the second half of the piece is titled \"Crisis.\" Resumes performing. Applause.] | Video Description: White t-shirt, beaded necklace with square gold pendant, and dark hair in a small bun at the crown of his head. Long shot zooms into medium closeup as Elfassy speaks into the mic, performs a piece, speaks into the mic briefly, and resumes performing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ran Elfassy",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f49b6f8e-6590-4437-bcab-609ba43a25a7"
+    },
+    {
+      "start_time": 6594,
+      "end_time": 6611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Elfassy. Invites Thoth Harris to the stage.] | Video Description: Long shot zooms into medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3e70bb80-9c96-4925-a902-bc8dc67a54c4"
+    },
+    {
+      "start_time": 6611,
+      "end_time": 6931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says he will give an autobiographical statement before performing, stating that he is from Vancouver, that he was abused as a child, that his abuser recently died, and his girlfriend recently gave birth. Introduces and performs a piece titled \"Breathing Space.\"] | Video Description: Pinkish-grey plaid atop a white shirt, grey and white striped scarf, and a grey toque with ear flaps and strings. Medium closeup to medium shot as Harris speaks into the mic and performs a piece. Zooms into closeup part way through. Zooms out to medium shot as piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Thoth Harris"
+        }
+      ],
+      "uuid": "af0eb310-7f31-4da5-9b77-043b4858677a"
+    },
+    {
+      "start_time": 6931,
+      "end_time": 7105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled [\"Samson's Lost Beach\"?] [\"Sam's on Glass Beach\"?]. Applause.] | Video Description: Medium shot as Harris puts mic back on stand. Medium closeup as Harris performs a piece. Zooms out to medium shot as the piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Thoth Harris"
+        }
+      ],
+      "uuid": "2290d1b5-3b99-4074-9149-7572554dd5d9"
+    },
+    {
+      "start_time": 7105,
+      "end_time": 7210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"Damage Counter #1.\" Applause.] | Video Description: Medium shot zooms into medium closeup as Harris speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Thoth Harris"
+        }
+      ],
+      "uuid": "54be556d-4587-4df8-8fd9-0c593e5b1121"
+    },
+    {
+      "start_time": 7210,
+      "end_time": 7212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Long shot as Gotham walks to microphone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a407b331-9ba9-4e67-9b04-d32da4c79c2b"
+    },
+    {
+      "start_time": 7212,
+      "end_time": 7227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Static] | Video Description: Static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[video tape]"
+        }
+      ],
+      "uuid": "400f7e5c-383f-4ea4-8a52-c801b241f416"
+    },
+    {
+      "start_time": 7227,
+      "end_time": 7351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cuts to Berger in medias res performing a piece including the line \"like being afraid of falling asleep, like going, like being.\"] Applause.] | Video Description: Dusty rose button-down cardigan, thick gold chain, and short medium brown hair. Medium shot zooms into medium closeup as Berger performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Halina Berger"
+        }
+      ],
+      "uuid": "dc18c30e-b3be-45cf-a113-7cae728e3b52"
+    },
+    {
+      "start_time": 7351,
+      "end_time": 7367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Berger. Invites R. M. Vaughan to the stage.] | Video Description: Long shot zooms into medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4337c08e-2a73-49c6-8be4-e677d12a8898"
+    },
+    {
+      "start_time": 7367,
+      "end_time": 7510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks audience if they are bored by performers mentioning their place of birth. Mentions that he lives in Toronto and is from the east coast. Mentions he runs the Buddies in Bad Times Theatre Company. Mentions that all pieces he will read are from a series titled \"Seven Sentences from Balzac's âA Murky Business' and âAll of my Life'\" and each include a Balzac quote. Performs a piece that, after the quote, begins with the line \"Unless he's very large and the laws of perspective have bent for me.\"] | Video Description: Dark red and grey long sleeve button-down plaid, wire-rimmed glasses, and medium brown hair in a buzzcut. Medium shot zooms into medium closeup as Vaughan speaks into the mic. Medium closeup zooms out to medium shot as Vaughan performs a piece. Briefly zooms in on Vaughan's left arm gesticulating as the piece concludes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "R. M. Vaughan"
+        }
+      ],
+      "uuid": "26f7c7dd-99ab-4184-8c5f-f1de532870ad"
+    },
+    {
+      "start_time": 7510,
+      "end_time": 7578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Dedicates next work to [?] Beddington who runs a queer publishing company that does not publish queer work. Performs a piece that begins with the line \"You and me and politics.\"] | Video Description: Extreme closeup zooms out to medium closeup as Vaughan speaks into the mic. Medium closeup as Vaughan performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "R. M. Vaughan"
+        }
+      ],
+      "uuid": "f4bf9b82-3f4a-443c-b811-d89f202d3daa"
+    },
+    {
+      "start_time": 7578,
+      "end_time": 7694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs piece including the line \"remember you and I are not supposed, our bodies little principalities.\" Pauses intermittently throughout due to people loudly laughing and talking on the street.] | Video Description: Medium closeup as Vaughan performs a piece, occasionally stopping and turning to his right and left, looking off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "R. M. Vaughan"
+        }
+      ],
+      "uuid": "1b512491-96e7-43e5-b013-cb9fe62ed659"
+    },
+    {
+      "start_time": 7694,
+      "end_time": 7772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs piece beginning with the line\"Wholesome boy, gift from whatever gods rule that particular patch of cloud.\" Pauses intermittently throughout due to people loudly laughing and talking on the street.] | Video Description: Medium closeup as Vaughan performs a piece, occasionally stopping and turning to his right and left, looking off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "R. M. Vaughan"
+        }
+      ],
+      "uuid": "6749977e-4ffe-46f6-8aae-eb309314a044"
+    },
+    {
+      "start_time": 7772,
+      "end_time": 7913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs a piece titled \"[Lined?] Poem, Three Lines Long, About Hate.\" Applause.] | Video Description: Medium shot zooms into medium closeup as Vaughan performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "R. M. Vaughan"
+        }
+      ],
+      "uuid": "771923f0-b2f5-4df8-80f3-0ab9ed8c123c"
+    },
+    {
+      "start_time": 7913,
+      "end_time": 7941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Vaughan. Encourages audience to see Buddies in Bad Times in Toronto. Invites [Harpy?] to the stage.] | Video Description: Medium closeup as Gotham adjusts the mic and speaks into it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3cb5a47a-354c-478c-bef0-2878b561d923"
+    },
+    {
+      "start_time": 7941,
+      "end_time": 8122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs piece beginning with the line \"It's the end of the semester, as you can see.\" Applause.] | Video Description: Grey striped sweater without a zipper atop a white shirt, single hoop earring, and short curly hair. Medium shot as [Harpy?] speaks into the mic and performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[Harpy?]"
+        }
+      ],
+      "uuid": "99f458f7-5a0b-4d3c-a5b6-72c4e69f2ca2"
+    },
+    {
+      "start_time": 8122,
+      "end_time": 8349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Asks everyone to think of leaf cutting ants in preparation for Fluffy Pagan Echoes' event at Phoenix Cafe the week after. Performs a piece titled \"The Bus Driver's Mona Lisa.\" Applause.] | Video Description: White cable knit sweater atop a brown collared shirt, light wash baggy jeans, and dark brown messy hair. Long shot zooms into medium closeup as Duncan speaks into the mic. Medium closeup as Duncan performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scott Duncan",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "95faff9f-8828-4289-be6f-63ef0c7b0b00"
+    },
+    {
+      "start_time": 8349,
+      "end_time": 8762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece beginning with the line \"It is a sense of defeat that crawls over shoulders.\" Applause.] | Video Description: Black baggy t-shirt with the English flag printed on the left sleeve, long chain, and a light brown newsboy cap turned backwards with medium brown hair curling out the front. Medium closeup as McGrail speaks into the mic and performs a piece. Zooms into closeup partway through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Justin McGrail",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f14b4dfe-0215-4986-af15-2d1ce88c41da"
+    },
+    {
+      "start_time": 8762,
+      "end_time": 8773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Encourages audience to go to Fluffy Pagan Echoes show. Announces a special surprise.] | Video Description: Long shot zooms into medium closeup as Gotham speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7e4d8ee1-1615-4f93-b95e-175e26c2a213"
+    },
+    {
+      "start_time": 8773,
+      "end_time": 8781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Anna wears a lapelled leather jacket atop a black turtleneck sweater and short dark brown hair. Diamond wears the same outfit as during her feature but also wears an oversized grey jacket and a yellow, red, and black patterned scarf. Medium closeup as both walk on stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Anna and Ann Diamond"
+        }
+      ],
+      "uuid": "454e5d8b-430b-4da0-b1a9-3c4e430c7eb9"
+    },
+    {
+      "start_time": 8781,
+      "end_time": 8807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says this will be an example of how sometimes speech in another language sounds serious when it is not and vice versa.] | Video Description: Medium closeup as Anna lights a cigarette and speaking into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "d2c35571-4085-425e-8f8e-a2a727d84e3a"
+    },
+    {
+      "start_time": 8807,
+      "end_time": 8809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I will sing in Greek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "7206f532-f72b-4256-93d8-09a2f9cbca79"
+    },
+    {
+      "start_time": 8809,
+      "end_time": 8813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I will translate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "98b0e4b4-071b-44a9-89f5-9c162ff041c4"
+    },
+    {
+      "start_time": 8813,
+      "end_time": 8821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sings in Greek.] | Video Description: Medium closeup zooms out to medium shot as Diamond sings into the microphone and then pushes the mic to Anna"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "4f00eb4d-7569-4466-b286-d572dbaeb12e"
+    },
+    {
+      "start_time": 8821,
+      "end_time": 8831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Translates the words Diamond sang. Laughter.] | Video Description: Medium shot as Anna speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "245981f2-a587-457d-ab89-e30829aac10d"
+    },
+    {
+      "start_time": 8831,
+      "end_time": 8840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Says \"I didn't know it meant that.\" Resumes singing.] | Video Description: Medium shot as Diamond speaks into the mic, sings into the mic, and then pushes the mic to Anna."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "953132a1-7e4e-4095-881e-8847c58714e6"
+    },
+    {
+      "start_time": 8840,
+      "end_time": 8910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Translates the words Diamond sang. Laughter. Announces she will do the other part. Sings.] | Video Description: Medium closeup as Anna speaks into the mic, then takes off jacket. Zooms into closeup as Anna sings into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "f0bdd3dd-0d61-4436-82a7-b8e0b847e283"
+    },
+    {
+      "start_time": 8910,
+      "end_time": 8931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that she thinks it means \"I love your beautiful eyes and I love your hair and get a job and don't run after the whores.\" Laughter.] | Medium closeup as Diamond speaks into the mic and then pushes the mic to Anna."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Ann Diamond"
+        }
+      ],
+      "uuid": "15eb0e79-0e5c-4c38-a56d-9c0ab004471b"
+    },
+    {
+      "start_time": 8931,
+      "end_time": 8908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains that it means \"I don't want you to give me palaces and castles, I don't want you to give me riches like all the other sluts that you give them too, just feel sorry for the little parts of my heart, and just tell me that you love me.\" Applause.] | Video Description: Closeup as Anna speaks into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Anna"
+        }
+      ],
+      "uuid": "a710c2b7-82d4-40a2-a8d2-1e2902fe7908"
+    },
+    {
+      "start_time": 8908,
+      "end_time": 8988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Anna and Ann Diamond. Thanks the audience. Announces the end of the event.] | Video Description: Long shot as Gotham speaks into the mic.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lee Gotham",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "571168c6-6e85-4235-b2f2-d9b0e2422323"
+    },
+    {
+      "start_time": 8988,
+      "end_time": 9007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sombre recorded symphonic music in background.] | Video Description: Long shot of audience putting on jackets and chatting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[camera]"
+        }
+      ],
+      "uuid": "75d0ac26-3390-4237-ab06-c451da2ffe4b"
+    },
+    {
+      "start_time": 9007,
+      "end_time": 9037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sombre recorded symphonic music in background.] Video Description: Cuts to open mic sign-up blackboard with \"enough said\" written across the top and a list of participants' names below."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[camera]"
+        }
+      ],
+      "uuid": "fec4a91e-0cc6-4d01-ad42-a8febdd40e07"
+    },
+    {
+      "start_time": 9037,
+      "end_time": 9069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Cuts to closeup of Christmas tree with multicoloured lights, zooms out to show tree is inside Bistro 4 and camera is outside. Words such as \"biere,\" \"fut,\" \"cafe,\" and \"tisane\" are visible on the window. Zooms in on sign inside the venue that reads \"Bistro 4.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "[camera]"
+        }
+      ],
+      "uuid": "3f93b5b9-6c6e-46b2-92b2-4edffa4b0ad5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "cbf51472-73d7-488d-9d87-6d3d434b13cf",
+  "source_id": "57b89398-7876-4788-b1fe-df7fcf7697dd"
+}
